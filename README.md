@@ -1,2 +1,4 @@
-# Uda-project2
-Secondo Udacity project repository
+# Uda-project1
+Second Udacity project repository
+
+This is my portfolio design project
